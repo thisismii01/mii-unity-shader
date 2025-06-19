@@ -1,0 +1,34 @@
+{
+    "name": "com.mii.simple-shader-pack",
+    "version": "1.0.0",
+    "displayName": "Mii Simple Shader Pack",
+    "description": "A personal collection of reusable Unity shaders with demos.",
+    "unity": "2022.3",
+    "author": {
+        "name": "thisIsMii",
+        "url": "https://github.com/thisismii01"
+    },
+    "category": "Shaders",
+    "samples": [
+        {
+            "displayName": "Grass Geometry Shader Example",
+            "description": "Animated grass shader demo with wind simulation.",
+            "path": "Samples~/GrassGeometryShaderSample"
+        },
+        {
+            "displayName": "Toon Shader Example",
+            "description": "Demo showcasing a stylized toon shader.",
+            "path": "Samples~/ToonShaderSample"
+        },
+        {
+            "displayName": "Toon Water Shader Example",
+            "description": "Demo showcasing a stylized water shader.",
+            "path": "Samples~/ToonWaterShaderSample"
+        },
+        {
+            "displayName": "Outline Shader Example",
+            "description": "Demo showcasing an outline stylized shader.",
+            "path": "Samples~/OutlineShaderSample"
+        }
+    ]
+}

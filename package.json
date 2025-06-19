@@ -1,9 +1,10 @@
 {
-  "name": "com.mii.shaderpack",
+  "name": "com.mii.full-shader-pack",
   "version": "1.0.0",
   "displayName": "Mii Shader Pack",
   "description": "A personal collection of reusable Unity shaders with demos.",
   "unity": "2022.3",
+  "category": "Shaders",
   "keywords": ["unity", "shader", "graphics", "shaders", "effects"],
   "author": {
     "name": "thisIsMii",
