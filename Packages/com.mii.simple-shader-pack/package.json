@@ -2,13 +2,16 @@
     "name": "com.mii.simple-shader-pack",
     "version": "1.0.0",
     "displayName": "Mii Simple Shader Pack",
+    "category": "Shaders",
     "description": "A personal collection of reusable Unity shaders with demos.",
     "unity": "2022.3",
     "author": {
         "name": "thisIsMii",
         "url": "https://github.com/thisismii01"
     },
-    "category": "Shaders",
+    "dependencies": {
+        "com.unity.postprocessing": "3.4.0"
+    },
     "samples": [
         {
             "displayName": "Grass Geometry Shader Example",
