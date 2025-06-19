@@ -4,6 +4,7 @@
   "displayName": "Mii Shader Pack",
   "description": "A personal collection of reusable Unity shaders with demos.",
   "unity": "2022.3",
+  "keywords": ["unity", "shader", "graphics", "shaders", "effects"],
   "author": {
     "name": "thisIsMii",
     "url": "https://github.com/thisismii01"
