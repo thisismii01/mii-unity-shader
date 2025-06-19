@@ -19,7 +19,12 @@ This repository is a personal collection of Unity shaders that I use, experiment
 ## 📁 Structure
 
 Each shader or shader pack has its own folder and typically includes:
-<pre> \```plaintext ShaderName/ ├── Shaders/ ├── Materials/ ├── Scenes/ └── README.md (optional) \``` </pre>
+<pre> ShaderName/
+├── Shaders/
+├── Materials/
+├── Scenes/
+└── README.md (optional)
+</pre>
 
 ---
 
