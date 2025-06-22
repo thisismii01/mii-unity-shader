@@ -32,6 +32,11 @@
             "displayName": "Outline Shader Example",
             "description": "Demo showcasing an outline stylized shader.",
             "path": "Samples~/OutlineShaderSample"
-        }
+        },
+        {
+            "displayName": "Other Shader Collection",
+            "description": "Other random shader collection of mine.",
+            "path": "Samples~/OtherShader"
+        }, 
     ]
 }
