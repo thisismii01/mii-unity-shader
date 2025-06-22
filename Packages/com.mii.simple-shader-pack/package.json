@@ -10,7 +10,8 @@
         "url": "https://github.com/thisismii01"
     },
     "dependencies": {
-        "com.unity.postprocessing": "3.4.0"
+        "com.unity.postprocessing": "3.4.0",
+        "com.unity.shadergraph": "14.0.8"
     },
     "samples": [
         {
