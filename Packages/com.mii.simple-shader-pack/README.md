@@ -16,4 +16,4 @@ A personal collection of reusable, stylized shaders built for Unity's URP and st
    "com.mii.simple-shader-pack": "https://github.com/thisismii01/mii-unity-shader.git?path=/Packages/com.mii.simple-shader-pack"
 3. Or, instaLL via Unity Package Manager - "Add package from git URL...":
    ```json
-   "https://github.com/thisismii01/mii-unity-shader.git?path=/Packages/com.mii.simple-shader-pack"
+   https://github.com/thisismii01/mii-unity-shader.git?path=/Packages/com.mii.simple-shader-pack
